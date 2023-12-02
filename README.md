@@ -1,4 +1,4 @@
-<img width="400" src="github.png" alt="conding" align="right" />
+<img src="profile.png" alt="conding" align="right" />
 <h1 align="center">Hi 👋, I'm Dansoko Moussa</h1>
 <h3 align="center">A passionate developer from Tunisia</h3>
 <img width="400" src="tenor.gif" alt="conding" align="right" />
