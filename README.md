@@ -1,7 +1,7 @@
 <img width="400" src="profile.png" alt="conding" align="right" />
 <h1 align="center">Hi 👋, I'm Dansoko Moussa</h1>
 <h3 align="center">A passionate developer from Tunisia</h3>
-<img width="400" src="tenor1.gif" alt="conding" align="right" />
+<img width="400" src="tenor.gif" alt="conding" align="right" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dansokodev23&label=Profile%20views&color=0e75b6&style=flat" alt="dansokodev23" /> </p>
 
 <p align="left"> <a href="https://twitter.com/moussa dansoko" target="blank"><img src="https://img.shields.io/twitter/follow/moussa dansoko?logo=twitter&style=for-the-badge" alt="moussa dansoko" /></a> </p>
