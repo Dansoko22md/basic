@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="profile1.png" alt="Moussa Dansoko" width="200" />
+<img src="profile1.png" alt="conding" align="right" />
   
   # Hi 👋, I'm Dansoko Moussa
   ### Business Intelligence Engineer | Data Engineering | ERP Specialist
