@@ -17,7 +17,7 @@
 
 - 🎓 Engineering Student at **ESPRIT** specializing in **Business Intelligence & ERP**
 - 💼 Co-founder of **PROXIMA Guinée** - Digital Solutions Startup
-- 🌱 Currently mastering **Symfony**, **SAP MM/PM**, and **Advanced Data Analytics**
+- 🌱 Currently mastering **Python**, **SAP ABAP & Fiori**, and **Advanced Data Analytics**
 - 🏆 Certified **Oracle Data Platform Foundations Associate 2025**
 - 📫 Reach me: **dansokomoussa42@gmail.com**
 - 🌐 LinkedIn: [linkedin.com/in/dansokomoussa](https://www.linkedin.com/in/moussa-dansoko-a6a357172/)
