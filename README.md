@@ -1,5 +1,5 @@
 <div align="center">
-<img src="profile1.png" alt="conding" align="right" />
+<img src="profile.png" alt="conding" align="right" />
   
   # Hi 👋, I'm Dansoko Moussa
   ### Business Intelligence Engineer | Data Engineering | ERP Specialist
@@ -8,9 +8,7 @@
     <img src="https://komarev.com/ghpvc/?username=Dansoko22md&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   </p>
   
-  <p>
-    <a href="https://twitter.com/moussadansoko" target="_blank"><img src="https://img.shields.io/twitter/follow/moussadansoko?logo=twitter&style=for-the-badge" alt="Twitter" /></a>
-  </p>
+
 </div>
 
 ---
@@ -21,10 +19,8 @@
 - 💼 Co-founder of **PROXIMA Guinée** - Digital Solutions Startup
 - 🌱 Currently mastering **Symfony**, **SAP MM/PM**, and **Advanced Data Analytics**
 - 🏆 Certified **Oracle Data Platform Foundations Associate 2025**
-- 🌍 Based in **Tunis, Tunisia** | Originally from **Guinea**
-- 📫 Reach me: **moussa.dansoko@esprit.tn**
-- 🌐 Portfolio: [forlearner.com](https://forlearner.com)
-
+- 📫 Reach me: **dansokomoussa42@gmail.com**
+- 🌐 LinkedIn: [linkedin.com/in/dansokomoussa](https://www.linkedin.com/in/moussa-dansoko-a6a357172/)
 ---
 
 ## 🔗 Connect with Me
