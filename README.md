@@ -116,16 +116,6 @@
 
 ---
 
-## 🏆 Certifications
-
-- 🥇 **Oracle Data Platform Foundations Associate 2025** - Oracle
-- 🤖 **Artificial Intelligence Fundamentals** - IBM
-- 📊 **Introduction to Data Analytics** - IBM
-- 🧠 **Fundamentals of Deep Learning** - NVIDIA
-- 💼 **Introduction to CRM with HubSpot** - HubSpot
-- 🎨 **Create Customer Personas in Canva** - Coursera
-
----
 
 ## 📊 GitHub Statistics
 
