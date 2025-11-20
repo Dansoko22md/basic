@@ -1,5 +1,5 @@
 <div align="center">
-<img src="profile.png" alt="conding" align="right" />
+<img src="profile.png" alt="coding" align="right" />
   
   # Hi 👋, I'm Dansoko Moussa
   ### Business Intelligence Engineer | Data Engineering | ERP Specialist
@@ -50,6 +50,7 @@
   <img src="https://img.shields.io/badge/Talend-FF6D70?style=for-the-badge&logo=talend&logoColor=white" alt="Talend"/>
   <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
 </p>
 
 ### Programming Languages
@@ -70,6 +71,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
 </p>
 
 ### Mobile Development
@@ -91,6 +93,13 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
+</p>
+
+### AI & Machine Learning
+<p align="left">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
 </p>
 
 ### Design & Multimedia
@@ -116,6 +125,54 @@
 
 ---
 
+## 🔥 Featured Projects
+
+### 🦠 COVID-19 Scientific Articles Classification & Analysis
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dansoko22md/cord19-classification)
+
+> End-to-end AI system for classifying, analyzing, and retrieving COVID-19 scientific articles using NLP, Graph Neural Networks (GNN), and Graph-RAG technology. Features semantic search across scientific literature, automatic thematic clustering, intelligent article recommendations using Graph-RAG, and multi-source data aggregation.
+
+**Technologies:** Python, PyTorch, NLP, Graph Neural Networks, Transformers, OCR, Graph-RAG
+
+---
+
+### 🏭 Supplier Sustainability MLOps Pipeline
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dansoko22md/supplier-sustainability-mlops)
+
+> Complete MLOps pipeline for supplier sustainability classification with FastAPI, MLflow tracking, and Docker deployment. Implements automated model training, experiment tracking, performance monitoring, and RESTful API endpoints for real-time predictions.
+
+**Technologies:** Python, FastAPI, MLflow, Docker, Scikit-learn, Pandas
+
+---
+
+### ☕ Spring Boot Microservice with DevOps Pipeline
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dansoko22md/pipeline-java-microservice)
+
+> Java Spring Boot microservice with complete DevOps pipeline implementing testing, Docker containerization, Jenkins CI/CD automation, and Kubernetes deployment. Demonstrates modern microservices architecture with comprehensive DevOps practices.
+
+**Technologies:** Java, Spring Boot, Jenkins, Docker, Kubernetes, Maven, PostgreSQL
+
+---
+
+### 🤖 Strategic AI Intelligence Dashboard
+> AI-powered platform integrating GPT-4 for automatic analysis and classification of AI & Tech trends with multi-source data aggregation and executive dashboards.
+
+---
+
+### 🌱 Sustainable Optimization with SAP MM & PM
+> BI/ERP project in agri-food industry integrating SAP for centralized industrial data management, CO₂ emissions tracking, energy optimization, and predictive maintenance.
+
+---
+
+### 📚 AppReader
+> Modern web application for digital reading with smooth navigation, content search, and contemporary interface.
+
+---
+
+### 🌍 Ecotourism Web & Desktop Application
+> Academic project promoting sustainable tourism with ecological destination management, interactive maps, user profiles, online bio shop, and educational library.
+
+---
 
 ## 📊 GitHub Statistics
 
@@ -131,22 +188,6 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Dansoko22md&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
-
----
-
-## 🔥 Featured Projects
-
-### 🤖 Strategic AI Intelligence Dashboard
-> AI-powered platform integrating GPT-4 for automatic analysis and classification of AI & Tech trends with multi-source data aggregation and executive dashboards.
-
-### 🌱 Sustainable Optimization with SAP MM & PM
-> BI/ERP project in agri-food industry integrating SAP for centralized industrial data management, CO₂ emissions tracking, energy optimization, and predictive maintenance.
-
-### 📚 AppReader
-> Modern web application for digital reading with smooth navigation, content search, and contemporary interface.
-
-### 🌍 Ecotourism Web & Desktop Application
-> Academic project promoting sustainable tourism with ecological destination management, interactive maps, user profiles, online bio shop, and educational library.
 
 ---
 
