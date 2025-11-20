@@ -2,7 +2,7 @@
 <img src="profile.png" alt="coding" align="right" />
   
   # Hi 👋, I'm Dansoko Moussa
-  ### Business Intelligence Engineer | Data Engineering | ERP Specialist
+  ### Computer Engineer | Business Intelligence | Data Engineering | ERP Specialist
   
   <p>
     <img src="https://komarev.com/ghpvc/?username=Dansoko22md&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
