@@ -1,196 +1,251 @@
 <div align="center">
-<img src="profile.png" alt="coding" align="right" />
-  
-  # Hi 👋, I'm Dansoko Moussa
-  ### Computer Engineer | Business Intelligence | Data Engineering | ERP Specialist
-  
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=Dansoko22md&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  </p>
-  
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║    ██████╗  █████╗ ███╗  ██╗███████╗ ██████╗ ██╗  ██╗ ██████╗   ║
+║    ██╔══██╗██╔══██╗████╗ ██║██╔════╝██╔═══██╗██║ ██╔╝██╔═══██╗  ║
+║    ██║  ██║███████║██╔██╗██║███████╗██║   ██║█████╔╝ ██║   ██║  ║
+║    ██║  ██║██╔══██║██║╚████║╚════██║██║   ██║██╔═██╗ ██║   ██║  ║
+║    ██████╔╝██║  ██║██║ ╚███║███████║╚██████╔╝██║  ██╗╚██████╔╝  ║
+║    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚══╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝   ║
+║                                                              ║
+║              M O U S S A   D A N S O K O                    ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+### `Computer Engineer` · `Full-Stack Developer` · `BI & Data Engineer` · `ERP Specialist`
+
+<img src="https://komarev.com/ghpvc/?username=Dansoko22md&label=Profile+Views&color=7c6fff&style=flat-square" />
+&nbsp;
+<img src="https://img.shields.io/badge/Status-Open_to_Work-00e5c4?style=flat-square" />
+&nbsp;
+<img src="https://img.shields.io/badge/Oracle-Certified_2025-F80000?style=flat-square&logo=oracle&logoColor=white" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+## `$ whoami`
 
-- 🎓 Engineering Student at **ESPRIT** specializing in **Business Intelligence & ERP**
-- 💼 Co-founder of **PROXIMA Guinée** - Digital Solutions Startup
-- 🌱 Currently mastering **Python**, **SAP ABAP & Fiori**, and **Advanced Data Analytics**
-- 🏆 Certified **Oracle Data Platform Foundations Associate 2025**
-- 📫 Reach me: **dansokomoussa42@gmail.com**
-- 🌐 LinkedIn: [linkedin.com/in/dansokomoussa](https://www.linkedin.com/in/moussa-dansoko-a6a357172/)
----
-
-## 🔗 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/moussa-dansoko-a6a357172/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+```yaml
+name        : Dansoko Moussa
+role : Full-Stack Engineer · Data & BI Specialist · ERP Consultant
+focus       : Business Intelligence · Full-Stack · ERP · Data Engineering
+certification: Oracle Data Platform Foundations Associate 2025
+learning    : SAP ABAP & Fiori · Advanced Data Analytics · .NET / C#
+linkedin    : linkedin.com/in/moussa-dansoko-a6a357172
+location    : Available Worldwide 🌍
+```
 
 ---
 
-## 💻 Tech Stack
+## `$ cat tech_stack.json`
 
-### Business Intelligence & Analytics
-<p align="left">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Talend-FF6D70?style=for-the-badge&logo=talend&logoColor=white" alt="Talend"/>
-  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
-</p>
+### ⬡ Full-Stack Web Development
 
-### Programming Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Web Development
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
-</p>
+### ⬡ Programming Languages
 
-### Mobile Development
-<p align="left">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt"/>
-</p>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET_MVP-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![SAP ABAP](https://img.shields.io/badge/SAP_ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 
-### Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle DB"/>
-</p>
+### ⬡ Business Intelligence & ERP
 
-### DevOps & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
-</p>
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Talend](https://img.shields.io/badge/Talend-FF6D70?style=for-the-badge&logo=talend&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP_Fiori-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
-### AI & Machine Learning
-<p align="left">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-</p>
+### ⬡ AI / Machine Learning
 
-### Design & Multimedia
-<p align="left">
-  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop"/>
-  <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
-</p>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI_Serving-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### IoT & Hardware
-<p align="left">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
-</p>
+### ⬡ Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle DB](https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### ⬡ DevOps & Infrastructure
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### ⬡ Mobile & Design
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
 
-## 🌐 Languages
+## `$ ls -la ./projects`
 
-<p align="left">
-  <img src="https://img.shields.io/badge/French-C1-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOTAwIiBoZWlnaHQ9IjYwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8cmVjdCB3aWR0aD0iOTAwIiBoZWlnaHQ9IjYwMCIgZmlsbD0iI0VEMjkzOSIvPgogIDxyZWN0IHdpZHRoPSI2MDAiIGhlaWdodD0iNjAwIiBmaWxsPSIjRkZGIi8+CiAgPHJlY3Qgd2lkdGg9IjMwMCIgaGVpZ2h0PSI2MDAiIGZpbGw9IiMwMDIzOTUiLz4KPC9zdmc+" alt="French"/>
-  <img src="https://img.shields.io/badge/English-B2-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIwMCIgaGVpZ2h0PSI2MDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iNjAwIiBmaWxsPSIjMDEyMTY5Ii8+CiAgPHBhdGggZD0iTTAgMGwxMjAwIDYwME0xMjAwIDBMMCA2MDAiIHN0cm9rZT0iI0ZGRiIgc3Ryb2tlLXdpZHRoPSIxMjAiLz4KICA8cGF0aCBkPSJNMCAwbDEyMDAgNjAwTTEyMDAgMEwwIDYwMCIgc3Ryb2tlPSIjQzgxMDJFIiBzdHJva2Utd2lkdGg9IjgwIi8+CiAgPHBhdGggZD0iTTYwMCAwdjYwME0wIDMwMGgxMjAwIiBzdHJva2U9IiNGRkYiIHN0cm9rZS13aWR0aD0iMjAwIi8+CiAgPHBhdGggZD0iTTYwMCAwdjYwME0wIDMwMGgxMjAwIiBzdHJva2U9IiNDODEwMkUiIHN0cm9rZS13aWR0aD0iMTIwIi8+Cjwvc3ZnPg==" alt="English"/>
-</p>
-
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Stack</th>
+      <th>Description</th>
+      <th>Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>🔍 DeepSeek OCR Intelligence</b><br/><sub>⭐ New</sub></td>
+      <td>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+      </td>
+      <td>AI-powered OCR platform — extract & structure text from images instantly. Upload PNG/JPG/WEBP/PDF and get clean text + JSON output powered by DeepSeek</td>
+      <td><a href="https://github.com/Dansoko22md/deepseek-ocr-intelligence"><img src="https://img.shields.io/badge/View-181717?style=flat-square&logo=github"/></a></td>
+    </tr>
+    <tr>
+      <td><b>🗄️ FileHub — Premium Vault</b><br/><sub>⭐ New · 16 stars</sub></td>
+      <td>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MinIO_S3-C72E49?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      </td>
+      <td>Premium full-stack file management system powered by MinIO (S3-compatible). Secure uploads, storage & retrieval with a dark & gold interface</td>
+      <td><a href="https://github.com/Dansoko22md/filehub-premium-vault"><img src="https://img.shields.io/badge/View-181717?style=flat-square&logo=github"/></a></td>
+    </tr>
+    <tr>
+      <td><b>🦠 COVID-19 Articles Classification</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GNN-7c6fff?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Graph--RAG-00e5c4?style=flat-square"/>
+      </td>
+      <td>End-to-end AI system for classifying & retrieving COVID-19 scientific articles with NLP, Graph Neural Networks, semantic search & Graph-RAG recommendations</td>
+      <td><a href="https://github.com/Dansoko22md/cord19-classification"><img src="https://img.shields.io/badge/View-181717?style=flat-square&logo=github"/></a></td>
+    </tr>
+    <tr>
+      <td><b>🏭 Supplier Sustainability MLOps</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      </td>
+      <td>Complete MLOps pipeline for sustainability classification — automated training, experiment tracking, performance monitoring & RESTful prediction APIs</td>
+      <td><a href="https://github.com/Dansoko22md/supplier-sustainability-mlops"><img src="https://img.shields.io/badge/View-181717?style=flat-square&logo=github"/></a></td>
+    </tr>
+    <tr>
+      <td><b>☕ Spring Boot DevOps Pipeline</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+      </td>
+      <td>Java microservice with full DevOps pipeline — Docker containerization, Jenkins CI/CD automation, Kubernetes deployment & comprehensive testing</td>
+      <td><a href="https://github.com/Dansoko22md/pipeline-java-microservice"><img src="https://img.shields.io/badge/View-181717?style=flat-square&logo=github"/></a></td>
+    </tr>
+    <tr>
+      <td><b>🌱 Projet-BI-SAP</b><br/><sub>⭐ 3 stars</sub></td>
+      <td>
+        <img src="https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+      </td>
+      <td>SAP MM/PM system for sustainable optimization — CO2 tracking, energy management, predictive maintenance & supplier evaluation by environmental criteria</td>
+      <td><a href="https://github.com/Dansoko22md/Projet-BI-SAP"><img src="https://img.shields.io/badge/View-181717?style=flat-square&logo=github"/></a></td>
+    </tr>
+    <tr>
+      <td><b>🤖 Strategic AI Intelligence Dashboard</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GPT--4-412991?style=flat-square&logo=openai&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+      </td>
+      <td>AI-powered platform integrating GPT-4 for automatic classification of AI & Tech trends with multi-source aggregation and executive dashboards</td>
+      <td>🔒 Private</td>
+    </tr>
+  </tbody>
+</table>
 ---
 
-## 🔥 Featured Projects
-
-### 🦠 COVID-19 Scientific Articles Classification & Analysis
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dansoko22md/cord19-classification)
-
-> End-to-end AI system for classifying, analyzing, and retrieving COVID-19 scientific articles using NLP, Graph Neural Networks (GNN), and Graph-RAG technology. Features semantic search across scientific literature, automatic thematic clustering, intelligent article recommendations using Graph-RAG, and multi-source data aggregation.
-
-**Technologies:** Python, PyTorch, NLP, Graph Neural Networks, Transformers, OCR, Graph-RAG
-
----
-
-### 🏭 Supplier Sustainability MLOps Pipeline
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dansoko22md/supplier-sustainability-mlops)
-
-> Complete MLOps pipeline for supplier sustainability classification with FastAPI, MLflow tracking, and Docker deployment. Implements automated model training, experiment tracking, performance monitoring, and RESTful API endpoints for real-time predictions.
-
-**Technologies:** Python, FastAPI, MLflow, Docker, Scikit-learn, Pandas
-
----
-
-### ☕ Spring Boot Microservice with DevOps Pipeline
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dansoko22md/pipeline-java-microservice)
-
-> Java Spring Boot microservice with complete DevOps pipeline implementing testing, Docker containerization, Jenkins CI/CD automation, and Kubernetes deployment. Demonstrates modern microservices architecture with comprehensive DevOps practices.
-
-**Technologies:** Java, Spring Boot, Jenkins, Docker, Kubernetes, Maven, PostgreSQL
-
----
-
-### 🤖 Strategic AI Intelligence Dashboard
-> AI-powered platform integrating GPT-4 for automatic analysis and classification of AI & Tech trends with multi-source data aggregation and executive dashboards.
-
----
-
-### 🌱 Sustainable Optimization with SAP MM & PM
-> BI/ERP project in agri-food industry integrating SAP for centralized industrial data management, CO₂ emissions tracking, energy optimization, and predictive maintenance.
-
----
-
-### 📚 AppReader
-> Modern web application for digital reading with smooth navigation, content search, and contemporary interface.
-
----
-
-### 🌍 Ecotourism Web & Desktop Application
-> Academic project promoting sustainable tourism with ecological destination management, interactive maps, user profiles, online bio shop, and educational library.
-
----
-
-## 📊 GitHub Statistics
+## `$ git log --stats`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dansoko22md&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dansoko22md&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+
+<img src="https://streak-stats.demolab.com/?user=Dansoko22md&theme=tokyonight&hide_border=true&background=0d1117&ring=7c6fff&fire=00e5c4&currStreakLabel=7c6fff" />
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dansoko22md&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+---
+
+## `$ locale -a`
+
+<div align="left">
+
+| Language | Level | Proficiency |
+|----------|-------|-------------|
+| 🇫🇷 French | C1 | `████████████████████░░` Advanced |
+| 🇬🇧 English | B2 | `█████████████████░░░░░` Upper-Intermediate |
+
 </div>
 
+---
+
+## `$ ping dansokomoussa`
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dansoko22md&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moussa-dansoko-a6a357172/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dansoko22md)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dansokomoussa42@gmail.com)
+
 </div>
 
 ---
 
 <div align="center">
-  
-  ### 💡 "Innovation is not about saying yes to everything. It's about saying NO to all but the most crucial features."
-  
-  [![GitHub followers](https://img.shields.io/github/followers/Dansoko22md?label=Follow&style=social)](https://github.com/Dansoko22md)
-  [![GitHub stars](https://img.shields.io/github/stars/Dansoko22md?style=social)](https://github.com/Dansoko22md)
-  
-  ---
-  
-  **⚡ Open to opportunities in BI, Data Engineering, and ERP projects worldwide!**
-  
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│   "Innovation is not about saying yes to everything.           │
+│    It's about saying NO to all but the most crucial features." │
+│                                                                 │
+│         ⚡ Open to BI · Full-Stack · Data Engineering · ERP    │
+│                      opportunities worldwide                    │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+![Wave](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
+
 </div>
