@@ -1,26 +1,27 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║    ██████╗  █████╗ ███╗  ██╗███████╗ ██████╗ ██╗  ██╗ ██████╗   ║
-║    ██╔══██╗██╔══██╗████╗ ██║██╔════╝██╔═══██╗██║ ██╔╝██╔═══██╗  ║
-║    ██║  ██║███████║██╔██╗██║███████╗██║   ██║█████╔╝ ██║   ██║  ║
-║    ██║  ██║██╔══██║██║╚████║╚════██║██║   ██║██╔═██╗ ██║   ██║  ║
-║    ██████╔╝██║  ██║██║ ╚███║███████║╚██████╔╝██║  ██╗╚██████╔╝  ║
-║    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚══╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝   ║
-║                                                              ║
-║              M O U S S A   D A N S O K O                    ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<!-- MATRIX BANNER -->
+<img src="matrix.svg" width="100%" alt="matrix"/>
 
-### `Computer Engineer` · `Full-Stack Developer` · `BI & Data Engineer` · `ERP Specialist`
+<!-- ANIMATED TYPING TITLE -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=34FF00&center=true&vCenter=true&width=600&lines=MOUSSA+DANSOKO;Full-Stack+Engineer;Data+%26+BI+Specialist;ERP+Consultant)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=Dansoko22md&label=Profile+Views&color=7c6fff&style=flat-square" />
+<!-- WAVE SEPARATOR -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:34ff00,100:000000&height=80&section=header&reversal=false" width="100%"/>
+
+### `Full-Stack Engineer` · `BI & Data Specialist` · `ERP Consultant`
+
+<img src="https://komarev.com/ghpvc/?username=Dansoko22md&label=Profile+Views&color=34ff00&style=flat-square&labelColor=000000" />
 &nbsp;
-<img src="https://img.shields.io/badge/Status-Open_to_Work-00e5c4?style=flat-square" />
+<img src="https://img.shields.io/badge/Status-Open_to_Work-34ff00?style=flat-square&labelColor=000000" />
 &nbsp;
-<img src="https://img.shields.io/badge/Oracle-Certified_2025-F80000?style=flat-square&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle-Certified_2025-F80000?style=flat-square&logo=oracle&logoColor=white&labelColor=000000" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moussa-dansoko-a6a357172/)
+[![GitHub](https://img.shields.io/badge/GitHub-34ff00?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Dansoko22md)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dansokomoussa42@gmail.com)
 
 </div>
 
@@ -29,13 +30,13 @@
 ## `$ whoami`
 
 ```yaml
-name        : Dansoko Moussa
-role : Full-Stack Engineer · Data & BI Specialist · ERP Consultant
-focus       : Business Intelligence · Full-Stack · ERP · Data Engineering
-certification: Oracle Data Platform Foundations Associate 2025
-learning    : SAP ABAP & Fiori · Advanced Data Analytics · .NET / C#
-linkedin    : linkedin.com/in/moussa-dansoko-a6a357172
-location    : Available Worldwide 🌍
+name          : Dansoko Moussa
+role          : Full-Stack Engineer · Data & BI Specialist · ERP Consultant
+focus         : Business Intelligence · Full-Stack · ERP · Data Engineering
+certification : Oracle Data Platform Foundations Associate 2025
+learning      : SAP ABAP & Fiori · Advanced Data Analytics · .NET / C#
+linkedin      : linkedin.com/in/moussa-dansoko-a6a357172
+location      : Available Worldwide 🌍
 ```
 
 ---
@@ -195,13 +196,14 @@ location    : Available Worldwide 🌍
     </tr>
   </tbody>
 </table>
+
 ---
 
 ## `$ git log --stats`
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Dansoko22md&theme=tokyonight&hide_border=true&background=0d1117&ring=7c6fff&fire=00e5c4&currStreakLabel=7c6fff" />
+<img src="https://streak-stats.demolab.com/?user=Dansoko22md&theme=tokyonight&hide_border=true&background=0d1117&ring=34ff00&fire=34ff00&currStreakLabel=34ff00&sideLabels=34ff00&dates=8884a0&stroke=34ff00" />
 
 </div>
 
@@ -209,7 +211,7 @@ location    : Available Worldwide 🌍
 
 ## `$ locale -a`
 
-<div align="left">
+<div align="center">
 
 | Language | Level | Proficiency |
 |----------|-------|-------------|
@@ -220,32 +222,8 @@ location    : Available Worldwide 🌍
 
 ---
 
-## `$ ping dansokomoussa`
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moussa-dansoko-a6a357172/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dansoko22md)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dansokomoussa42@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│   "Innovation is not about saying yes to everything.           │
-│    It's about saying NO to all but the most crucial features." │
-│                                                                 │
-│         ⚡ Open to BI · Full-Stack · Data Engineering · ERP    │
-│                      opportunities worldwide                    │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-![Wave](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:34ff00&height=120&section=footer&text=Open%20to%20Opportunities%20Worldwide&fontSize=18&fontColor=34ff00&animation=fadeIn&fontAlignY=65" width="100%"/>
 
 </div>
